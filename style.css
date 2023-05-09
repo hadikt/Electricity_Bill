@@ -1,0 +1,134 @@
+/* body{ */
+    /* background-color: black; */
+/* } */
+.container{
+    /* background-color: red; */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.head{
+    /* background-color: aqua; */
+    width: 400px;
+    height: 400px;
+    margin-left: -200px;
+    border: solid 2px black;
+    border-radius: 30px;
+    box-shadow: 0 0 5px 1px;
+    
+}
+/* .tag{
+    width: 400px;
+    height: 60px;
+    background-color: rgb(22, 29, 234);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+#input{
+    margin-top: 40px;
+    margin-left: 25px;
+    position: absolute;
+    top: 60px;
+    width: 250px;
+    border: 3px solid black;
+    height: 20px;
+    /* border-radius: 30px; */
+}.inputs{
+    display: flex;
+    flex-direction: column;
+    position:relative;
+    /*  */
+    /* justify-content: first baseline; */
+    /* align-items:flex-start; */
+    gap: 60px;
+    /* background-color: aqua; */
+    margin-top: 0px;
+}#second{
+    width: 250px;
+    position: absolute;
+    top: 170px;
+    height: 20px;
+    left: 9px;
+    margin-left: 19px;
+    border: 3px solid black;
+}
+#sub{
+ width: 100px;
+ height: 32px;
+ margin-top: -20px;
+ margin-left: 100px;
+ border-radius: 30px;
+ background-color: rgb(28, 28, 95);
+ color: white;
+ font-size: 16px;
+ position: absolute;
+ top: 370px;
+}
+#h3{
+    position: absolute;
+    left: 30px;
+    top: 60px;
+}#num{
+    position: absolute;
+    top: 130px;
+    left: 30px;
+}#h1{
+    position: absolute;
+    left: 60px;
+}#pr{
+    position: absolute;
+    top: 190px;
+    left: 30px;
+}.curnt{
+    position: absolute;
+    top: 230px;
+    left: 25px;
+    width: 250px;
+    border: solid 3px black;
+    height: 20px;
+}.output{
+    margin: 30px;
+    font-size: 18px;
+    
+}
+.out{
+    background-color: rgb(172, 190, 227);
+    height: 400px;
+    width: 320px;
+    /* border: 3px solid black; */
+    border-radius: 30px;
+    box-shadow: 0 0  4px 2px ;
+}.first{
+    margin-left: 20px;
+}.sec{
+    margin-left: 20px;
+}.trf{
+    margin-left: 40px;
+}.sur{
+    margin-left: 20px;
+}.dst{
+    margin-left: 20px;
+}.pre{
+    position: absolute;
+    top: 300px;
+    left:25px ;
+    border: 3px solid black;
+    width: 250px;
+    height: 20px;
+}
+#unit{
+    position: absolute;
+    top: 260px;
+    left: 25px;
+    
+}.eceused{
+    margin-left: 20px;
+}.amt{
+    margin-left: 20px;
+}
+.thank{
+    margin-left: 90px;
+    margin-top: 40px;
+}
